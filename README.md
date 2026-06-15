@@ -16,15 +16,37 @@ O projeto foi criado com o objetivo de praticar:
 
 ---
 
-## Tecnologias
+## Tecnologias de Desenvolvimento
 
 * TypeScript
 * Node.js
 * Express
+* SQLite
 * JWT
 * Bcrypt
 * UUID
 * Dotenv
+
+## Tecnologias de Teste
+
+### Testes Unitários
+
+* Mocha
+* Chai
+
+### Testes de Integração
+
+* Supertest
+* Mocha
+* Chai
+
+### Testes End-to-End (E2E)
+
+* Cypress
+
+## Gerenciamento de Dependências
+
+* NPM
 
 ---
 
