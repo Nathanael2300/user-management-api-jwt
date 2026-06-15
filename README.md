@@ -1,6 +1,6 @@
-# 🔐 API de Autenticação com TypeScript e JWT
+# API de Autenticação com TypeScript e JWT
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 API REST desenvolvida com TypeScript para gerenciamento de usuários e autenticação utilizando JWT.
 
@@ -16,7 +16,7 @@ O projeto foi criado com o objetivo de praticar:
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 * TypeScript
 * Node.js
@@ -28,7 +28,7 @@ O projeto foi criado com o objetivo de praticar:
 
 ---
 
-## 📁 Estrutura
+## Estrutura
 
 ```bash
 src
@@ -45,7 +45,7 @@ src
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 ### Usuários
 
@@ -62,7 +62,7 @@ src
 
 ---
 
-## 🔑 Endpoints
+## Endpoints
 
 ### Criar Usuário
 
@@ -121,7 +121,7 @@ Authorization: Bearer TOKEN
 
 ---
 
-## ▶️ Instalação
+## Instalação
 
 Clone o projeto:
 
@@ -143,7 +143,7 @@ npm run dev
 
 ---
 
-## 🔒 Variáveis de Ambiente
+## Variáveis de Ambiente
 
 Crie um arquivo `.env`:
 
@@ -154,7 +154,7 @@ JWT_SECRET=sua_chave_secreta
 
 ---
 
-## 📚 Conceitos Aplicados
+## Conceitos Aplicados
 
 * SOLID
 * Repository Pattern
@@ -166,6 +166,6 @@ JWT_SECRET=sua_chave_secreta
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por Nathanael Henrique como projeto de estudo para aprofundamento em TypeScript e desenvolvimento backend.
