@@ -63,6 +63,26 @@ src
 ├── routes
 ├── config
 └── server.ts
+
+tests/
+├── unit/
+│   ├── services/
+│   └── repositories/
+│
+├── integration/
+│   ├── auth/
+│   └── users/
+│
+├── factories/
+│   ├── user.factory.ts
+│   └── auth.factory.ts
+│
+├── fixtures/
+│   └── users.json
+│
+└── helpers/
+    ├── database.helper.ts
+    └── auth.helper.ts
 ```
 
 ---
