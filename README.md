@@ -23,7 +23,7 @@ O projeto foi criado com o objetivo de praticar:
 * Express
 * SQLite
 * JWT
-* Bcrypt
+* Argon2
 * UUID
 * Dotenv
 
