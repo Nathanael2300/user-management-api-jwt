@@ -1,4 +1,4 @@
-# API de Autenticação com TypeScript e JWT
+# User Management REST API — TypeScript, JWT, SQLite
 
 ## Sobre o Projeto
 
