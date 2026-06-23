@@ -46,7 +46,7 @@ O projeto foi criado com o objetivo de praticar:
 
 ## Gerenciamento de Dependências
 
-* NPM
+* BUN
 
 ---
 
