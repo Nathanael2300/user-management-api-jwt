@@ -1,8 +1,11 @@
 {
   "name": "user-management-api-jwt",
-  "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "db:create": "bun scripts/create-tables.ts",
+    "dev": "bun run --watch ./src/server.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/chai": "^5.2.3",
