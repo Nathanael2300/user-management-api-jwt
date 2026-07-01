@@ -1,11 +1,11 @@
 export class Email {
   constructor(private readonly value: string) {
-    if (!value) {
-      throw new Error("Email is required");
-    }
-
     if (typeof value !== "string") {
       throw new Error("Email must be string");
+    }
+
+    if (!value) {
+      throw new Error("Email is required");
     }
 
     const regexEmail =
